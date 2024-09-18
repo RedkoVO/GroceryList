@@ -47,7 +47,7 @@ If everything is set up _correctly_, you should see your new app running in your
 This is one way to run your app — you can also run it directly from within Android Studio and Xcode respectively.
 
 ## Step 3: Run server
-We use [json-server](https://www.npmjs.com/package/json-server).
+We use [json-server](https://www.npmjs.com/package/json-server) for local back-end.
 
 ```bash
 $ npx json-server db.json
