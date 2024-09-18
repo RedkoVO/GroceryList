@@ -1,1 +1,3 @@
-export const URL = 'http://localhost:3000'
+import Config from 'react-native-config'
+
+export const URL = Config.API_URL
